@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+/* style.css */
+.box {
+    background-color: lightblue;
+    text-align: center;
+    padding: 40px 20px;
+    width: 600px;
+    border-top-right-radius: 30px;
+    border-top-left-radius: 30px;
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+    padding: 30px;
+}
+
+.box h1 {
+    color: darkblue;
+    margin-bottom: 10px;
+}
+
+.box p {
+    color: black;
+    margin-bottom: 20px;
+}
+
+.box button {
+    padding: 6px 12px;
+    cursor: pointer;
+}
+
+.box {
+    background-image: url(https://d2clawv67efefq.cloudfront.net/ccbp-static-website/ocean.jpg );
+    height: 500px;
+    width: 300px;
+    background-size: cover;
+}
+
+.button {
+    height: 29px;
+    width: 100px;
+    background-color: #25b1cc;
+    border: 100px;
+    border-radius: 25px;
+    border-width: 0px;
+}
